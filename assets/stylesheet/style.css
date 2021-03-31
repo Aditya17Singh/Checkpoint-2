@@ -73,12 +73,12 @@ body{
     position: sticky;
     margin-top: 80px;
     top: 0;
-    
 }
 .wrap{
     justify-content: space-between;
     align-items: center;
     background-color: white;
+    box-shadow: 2px 3px 6px 2px grey;
 }
 .nav-links a{
     font-weight: 700;
@@ -187,7 +187,7 @@ hr{
 }
 .icons-1-1{
     background-color: #5CBD9D;
-    padding: 120px 100px;
+    padding: 120px 135px;
 }
 .icons-1-2{
     background-color: #E67F31;
@@ -358,7 +358,7 @@ hr{
 .btn-1{
     margin-top: 20px;
     background-color: red;
-    width: 395px;
+    width: 382px;
     border: 0;
     padding: 12px;
 }
